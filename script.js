@@ -38,9 +38,9 @@ document.querySelectorAll(".nav-links a").forEach(link => {
 });
 
 
-// ================================
-// TYPING EFFECT
-// ================================
+
+
+// typing effect
 
 const typingElement = document.getElementById("typing");
 
