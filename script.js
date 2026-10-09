@@ -244,9 +244,13 @@ contactForm.addEventListener("submit", (event) => {
 });
 
 
-// ================================
-// CURRENT YEAR
-// ================================
+
+
+// current year
+
+
+
+
 
 document.getElementById("year").textContent =
     new Date().getFullYear();
