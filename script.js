@@ -249,8 +249,3 @@ contactForm.addEventListener("submit", (event) => {
 // current year
 
 
-
-
-
-document.getElementById("year").textContent =
-    new Date().getFullYear();
