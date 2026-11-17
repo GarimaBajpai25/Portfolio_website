@@ -246,7 +246,7 @@ contactForm.addEventListener("submit", (event) => {
 
 
 
-// current year
+// ================================current year============================================
 
 
 
@@ -255,4 +255,3 @@ contactForm.addEventListener("submit", (event) => {
 document.getElementById("year").textContent =
     new Date().getFullYear();
 
-    
