@@ -22,7 +22,7 @@ menuBtn.addEventListener("click", () => {
 });
 
 
-// Close menu when clicking a link
+// Close menu when clicking a link==============
 
 document.querySelectorAll(".nav-links a").forEach(link => {
 
