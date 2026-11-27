@@ -44,6 +44,10 @@ textarea {
 }
 
 
+.container {
+    width: min(1120px, 90%);
+    margin: auto;
+}
 
 
 
