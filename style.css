@@ -43,10 +43,9 @@ textarea {
     font-family: inherit;
 }
 
-.container {
-    width: min(1120px, 90%);
-    margin: auto;
-}
+
+
+
 
 .section {
     padding: 100px 0;
